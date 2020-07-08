@@ -5,4 +5,8 @@
     <RootNamespace>Parcial2_Ap2_Flores</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="BLL\" />
+  </ItemGroup>
+
 </Project>
